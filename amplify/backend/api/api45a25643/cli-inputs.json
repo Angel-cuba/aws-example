@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/users/{userId}": {
+      "name": "/users/{userId}",
+      "lambdaFunction": "awsamplify76d1131e",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
